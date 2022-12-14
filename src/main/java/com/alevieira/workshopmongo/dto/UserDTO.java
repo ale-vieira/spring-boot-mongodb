@@ -2,8 +2,6 @@ package com.alevieira.workshopmongo.dto;
 
 import java.io.Serializable;
 
-import org.springframework.data.annotation.Id;
-
 import com.alevieira.workshopmongo.domain.User;
 
 public class UserDTO implements Serializable {
